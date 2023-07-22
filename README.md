@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielProkopDev
 - 👀 I’m interested in Java,Spring Framework,Spring Boot,Web Development
-- 🌱 I’m currently learning Java,Spring Framework,Spring Boot, Web Development
+- 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me daniel.prokop.dev@gmail.com
 
